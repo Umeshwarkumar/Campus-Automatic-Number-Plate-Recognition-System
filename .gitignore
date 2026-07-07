@@ -1,0 +1,39 @@
+# Environment variables (contains private API keys)
+.env
+backend/.env
+frontend/.env
+*.env
+
+# Python Virtual Environment
+venv/
+backend/venv/
+ENV/
+env/
+
+# Python caching & bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Node dependencies & builds
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+dist-ssr/
+.eslintcache
+
+# Local runtime logs & output data
+Output_images/
+records.txt
+logs/
+*.log
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
