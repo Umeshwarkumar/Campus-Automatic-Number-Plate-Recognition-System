@@ -73,8 +73,7 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/Umeshwarkumar/Campus-Automatic-Number-Plate-Recognition-System.git
-cd 
-Campus-Automatic-Number-Plate-Recognition-System
+cd Campus-Automatic-Number-Plate-Recognition-System
 ```
 
 ### 2. Install Python Backend Dependencies
