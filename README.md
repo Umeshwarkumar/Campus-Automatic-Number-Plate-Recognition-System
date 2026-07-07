@@ -72,8 +72,9 @@ The application requires the following software versions:
 Clone the repository to your local machine:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/Umeshwarkumar/Campus-Automatic-Number-Plate-Recognition-System.git
+cd 
+Campus-Automatic-Number-Plate-Recognition-System
 ```
 
 ### 2. Install Python Backend Dependencies
